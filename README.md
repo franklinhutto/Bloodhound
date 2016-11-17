@@ -8,4 +8,4 @@ The record input will match the data type of the field:
 * String is an exact match but not case sensitive
 * Integer is an exact match
 * Float is  limited (needs a between method)
-* Date is between method with syntax year month date (xxxx xx xx)
+* Date is between method with the syntax of year month date (xxxx xx xx)
