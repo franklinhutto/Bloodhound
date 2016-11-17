@@ -3,7 +3,7 @@ A Python Tool Box that helps ArcGIS Users find records and zooms to the selected
 
 It creates three inputs: feature, field, and record.  The feature and field inputs are drop downs; the record is a text input.  
 
-The record input with match the data type of the field:
+The record input will match the data type of the field:
 
 * String is an exact match but not case sensitive
 * Integer is an exact match
